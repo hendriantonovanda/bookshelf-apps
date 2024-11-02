@@ -34,10 +34,10 @@ The app includes the following sections :
    cd bookshelf-apps
 3. Open the index.html file in your browser to view the app.
 
-### Contributing
+## Contributing
 
 Contributions to improve this project are welcome. If you would like to contribute, please fork this repository and submit a pull request with your changes.
 
-### License
+## License
 
 This project is licensed under the MIT License. Feel free to use and modify it.
