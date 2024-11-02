@@ -4,7 +4,7 @@ This is a web application designed to help you organize and track your reading l
 
 ## Project Overview
 
-The app includes the following sections:
+The app includes the following sections :
 - **Add New Book** : Form to enter book details such as title, author, year, and reading status.
 - **Search Book** : Search feature to find books by title.
 - **Bookshelves** :
